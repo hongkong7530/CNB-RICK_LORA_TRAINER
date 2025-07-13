@@ -28,12 +28,15 @@ RICK LORA TRAINER (RLT) 是一个基于ComfyUI和秋叶训练器的自动化LORA
 ![RLT](docs/翻译配置-谷歌.png)
 ![RLT](docs/训练配置-1.png)
 ![RLT](docs/训练配置-2.png)
-
+---
 ## 快速体验-CNB一键启动
 ![CNB](docs/CNB-仓库主页.png)
 ![CNB](docs/有问题提issue.png)
 
+[云原生，启动！](https://cnb.cool/beilinmo/CNB-NightStar/CNB-RICK-LORA-TRAINER)
 
+
+---
 ## 核心特性
 
 ### 1. 零参数配置训练
