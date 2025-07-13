@@ -1,7 +1,7 @@
 # CNB-RICK_LORA_TRAINER
 ## CNB赋能-小白一键式云端Lora训练平台
-![RLT Logo](fronted-ui\public\favicon.ico)
-![CNB Logo](docs\云原生构建.png)
+![RLT Logo](docs/favicon.ico)
+![CNB Logo](docs/云原生构建.png)
 ## 项目简介
 
 RICK LORA TRAINER (RLT) 是一个基于ComfyUI和秋叶训练器的自动化LORA训练平台，旨在简化AI绘图LORA模型的训练流程。该项目通过直观的用户界面和自动化工作流程，使得即使是零基础的用户也能轻松训练出高质量的LORA模型。
@@ -14,24 +14,24 @@ RICK LORA TRAINER (RLT) 是一个基于ComfyUI和秋叶训练器的自动化LORA
 ---
 ## 简易功能展示
 - 前端页面-资产
-![RLT](docs\资产管理-本地资产说明.png)
-![RLT](docs\资产管理-新建资产说明.png)
+![RLT](docs/资产管理-本地资产说明.png)
+![RLT](docs/资产管理-新建资产说明.png)
 
 - 前端页面-任务
-![RLT](docs\任务管理-新建任务按钮.png)
-![RLT](docs\任务管理-查看详情.png)
-![RLT](docs\任务管理-训练详情.png)
+![RLT](docs/任务管理-新建任务按钮.png)
+![RLT](docs/任务管理-查看详情.png)
+![RLT](docs/任务管理-训练详情.png)
 
 - 部分系统功能展示
-![RLT](docs\系统设置-系统配置.png)
-![RLT](docs\系统设置-标记配置.png)
-![RLT](docs\翻译配置-谷歌.png)
-![RLT](docs\训练配置-1.png)
-![RLT](docs\训练配置-2.png)
+![RLT](docs/系统设置-系统配置.png)
+![RLT](docs/系统设置-标记配置.png)
+![RLT](docs/翻译配置-谷歌.png)
+![RLT](docs/训练配置-1.png)
+![RLT](docs/训练配置-2.png)
 
 ## 快速体验-CNB一键启动
-![CNB](docs\CNB-仓库主页.png)
-![CNB](docs\有问题提issue.png)
+![CNB](docs/CNB-仓库主页.png)
+![CNB](docs/有问题提issue.png)
 
 
 ## 核心特性
