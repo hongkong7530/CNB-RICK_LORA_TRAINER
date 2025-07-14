@@ -1,6 +1,5 @@
 # CNB-RICK_LORA_TRAINER
 ## CNB赋能-小白一键式云端Lora训练平台
-![RLT Logo](fronted-ui/public/favicon.ico)
 ![CNB Logo](docs/云原生构建.png)
 ## 项目简介
 
